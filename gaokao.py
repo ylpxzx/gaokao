@@ -5,7 +5,7 @@ from lxml import etree
 import save
 headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
-            'Referer':'http://college.gaokao.com/schlist/a14/p2/',
+            'Referer':'http://college.gaokao.com/schlist/a14/p1/',
             'Host':'college.gaokao.com'
         }
 
