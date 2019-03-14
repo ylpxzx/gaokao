@@ -5,5 +5,4 @@
 首先需要先运行gaokao_mysql_1.py创建一个数据库
 再者就是运行gaokao_myssql_2.py创建需要的数据表
 这里我们将高校基本信息存入数据库中
-![image](https://github.com/ylpxzx/gaokao/imgs/e38c9f946f19e7d260486116dd8688c4_watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMjc4MjQw,size_16,color_FFFFFF,t_70.png)
 而高校往年文理科分数线存为json格式
