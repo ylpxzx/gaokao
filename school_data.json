@@ -1,0 +1,1324 @@
+{
+ "id": "中山大学",
+ "school_img": "http://img.eduuu.com/edu/ad/wm2.gif",
+ "school_type": "综合",
+ "school_subjection": "教育部",
+ "school_nature": "本科",
+ "school_url": "www.sysu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/29/",
+ "local_name": "广州市新港西路135号"
+}{
+ "id": "华南理工大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/30.png",
+ "school_type": "工科",
+ "school_subjection": "教育部",
+ "school_nature": "本科",
+ "school_url": "www.scut.edu.cn",
+ "next_url": "http://college.gaokao.com/school/30/",
+ "local_name": "广州市天河区五山路381号"
+}{
+ "id": "暨南大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/88.png",
+ "school_type": "综合",
+ "school_subjection": "国务院侨务办公室",
+ "school_nature": "本科",
+ "school_url": "www.jnu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/88/",
+ "local_name": "广东省广州市黄埔大道西601号"
+}{
+ "id": "华南农业大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/89.png",
+ "school_type": "农业",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "——",
+ "next_url": "http://college.gaokao.com/school/89/",
+ "local_name": "广州市天河区五山华南农业大学"
+}{
+ "id": "广州中医药大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/90.png",
+ "school_type": "医药",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.gzucm.edu.cn",
+ "next_url": "http://college.gaokao.com/school/90/",
+ "local_name": "白云区机场路12号"
+}{
+ "id": "华南师范大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/91.png",
+ "school_type": "师范",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.scnu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/91/",
+ "local_name": "广东省广州市天河区"
+}{
+ "id": "汕头大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/368.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.stu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/368/",
+ "local_name": "校址：广东省汕头市大学路243号邮政编码：515063联系单位：招生办公室"
+}{
+ "id": "广东海洋大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/370.png",
+ "school_type": "农业",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.gdou.edu.cn",
+ "next_url": "http://college.gaokao.com/school/370/",
+ "local_name": "广东省湛江市湖光岩东广东海洋大学"
+}{
+ "id": "广州医学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/371.png",
+ "school_type": "医药",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.gzhmc.edu.cn",
+ "next_url": "http://college.gaokao.com/school/371/",
+ "local_name": "广州市东风西路195号"
+}{
+ "id": "广东医学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/372.png",
+ "school_type": "医药",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.gdmc.edu.cn",
+ "next_url": "http://college.gaokao.com/school/372/",
+ "local_name": "广东省湛江市霞山区文明东路2号/广东省东莞松山湖高新技术产业开发区新城大道1号"
+}{
+ "id": "广东药学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/373.png",
+ "school_type": "医药",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.gdpu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/373/",
+ "local_name": "广东省广州市广州大学城外环东路280号广东药学院"
+}{
+ "id": "韶关学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/374.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.sgu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/374/",
+ "local_name": "广东省广州市广州大学城外环东路280号广东药学院"
+}{
+ "id": "惠州学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/375.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.hzu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/375/",
+ "local_name": "广东惠州市惠城区演达大道46号"
+}{
+ "id": "韩山师范学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/376.png",
+ "school_type": "师范",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.hstc.edu.cn",
+ "next_url": "http://college.gaokao.com/school/376/",
+ "local_name": "广东省潮州市桥东韩山师范学院"
+}{
+ "id": "湛江师范学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/377.png",
+ "school_type": "师范",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.zhjnc.edu.cn",
+ "next_url": "http://college.gaokao.com/school/377/",
+ "local_name": "广东省湛江市赤坎区寸金路29号"
+}{
+ "id": "肇庆学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/378.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "http://www.zqu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/378/",
+ "local_name": "广东肇庆市端州区肇庆大道肇庆学院"
+}{
+ "id": "惠州大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/379.png",
+ "school_type": "综合",
+ "school_subjection": "——",
+ "school_nature": "其它",
+ "school_url": "www.hzu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/379/",
+ "local_name": "广东惠州市惠城区演达大道46号"
+}{
+ "id": "嘉应学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/380.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.jyu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/380/",
+ "local_name": "广东省梅州市梅松路嘉应学院"
+}{
+ "id": "广州体育学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/381.png",
+ "school_type": "体育",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.gipe.edu.cn",
+ "next_url": "http://college.gaokao.com/school/381/",
+ "local_name": "广东省广州市广州大道中1268号"
+}{
+ "id": "广州美术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/382.png",
+ "school_type": "艺术",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.gzarts.edu.cn",
+ "next_url": "http://college.gaokao.com/school/382/",
+ "local_name": "广州市海珠区昌岗东路257号"
+}{
+ "id": "星海音乐学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/383.png",
+ "school_type": "艺术",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.xhcom.edu.cn",
+ "next_url": "http://college.gaokao.com/school/383/",
+ "local_name": "广州市番禺区小谷围街（大学城）外环西路398号"
+}{
+ "id": "广东技术师范学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/384.png",
+ "school_type": "师范",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.gdin.edu.cn",
+ "next_url": "http://college.gaokao.com/school/384/",
+ "local_name": "广州市天河区中山大道西293号广东技术师范学院"
+}{
+ "id": "深圳大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/385.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "http://www.szu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/385/",
+ "local_name": "深圳市南山区南海大道3688号"
+}{
+ "id": "广东财经大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/386.png",
+ "school_type": "财经",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.gdufe.edu.cn",
+ "next_url": "http://college.gaokao.com/school/386/",
+ "local_name": "广州市海珠区仑头路21号"
+}{
+ "id": "广州大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/503.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.gzhu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/503/",
+ "local_name": "广州市海珠区仑头路21号"
+}{
+ "id": "广东警官学院",
+ "school_img": "http://img.eduuu.com/edu/ad/wm2.gif",
+ "school_type": "政法",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.gdppla.edu.cn",
+ "next_url": "http://college.gaokao.com/school/507/",
+ "local_name": "广州市滨江东路500号"
+}{
+ "id": "仲恺农业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/517.png",
+ "school_type": "农业",
+ "school_subjection": "——",
+ "school_nature": "其它",
+ "school_url": "www.zhku.edu.cn",
+ "next_url": "http://college.gaokao.com/school/517/",
+ "local_name": "纺织路东沙街24"
+}{
+ "id": "五邑大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/518.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.wyu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/518/",
+ "local_name": "广东江门市迎宾大道中99号"
+}{
+ "id": "广东石油化工学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/537.png",
+ "school_type": "综合",
+ "school_subjection": "——",
+ "school_nature": "本科",
+ "school_url": "http://zs.gdupt.edu.cn",
+ "next_url": "http://college.gaokao.com/school/537/",
+ "local_name": "广东省茂名市官渡二路139号茂名学院招生办公室（邮编：525000）"
+}{
+ "id": "东莞理工学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/546.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.dgut.edu.cn",
+ "next_url": "http://college.gaokao.com/school/546/",
+ "local_name": "广东省东莞市松山湖大学路1号"
+}{
+ "id": "佛山科学技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/553.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.fosu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/553/",
+ "local_name": "广东省佛山市江湾一路18号"
+}{
+ "id": "广东外语外贸大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/554.png",
+ "school_type": "语言",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "http://www.gdufs.edu.cn",
+ "next_url": "http://college.gaokao.com/school/554/",
+ "local_name": "学校地址：中国广州市白云区白云大道北2号(北校区)中国广州市番禺区小谷围广州大学城(南校区)"
+}{
+ "id": "广东工业大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/555.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.gdut.edu.cn",
+ "next_url": "http://college.gaokao.com/school/555/",
+ "local_name": "广州市番禺区广州大学城外环西路100号"
+}{
+ "id": "广东金融学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/627.png",
+ "school_type": "财经",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.gduf.edu.cn",
+ "next_url": "http://college.gaokao.com/school/627/",
+ "local_name": "广州市天河区迎福路527号"
+}{
+ "id": "南方医科大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/706.png",
+ "school_type": "医药",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.fimmu.com",
+ "next_url": "http://college.gaokao.com/school/706/",
+ "local_name": "广州市广州大道北1838号南方医科大学"
+}{
+ "id": "广东培正学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/754.png",
+ "school_type": "财经",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "www.peizheng.com.cn",
+ "next_url": "http://college.gaokao.com/school/754/",
+ "local_name": "广州市花都区赤坭培正路53号"
+}{
+ "id": "广东白云学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/764.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "本科",
+ "school_url": "http://www.baiyunU.edu.cn",
+ "next_url": "http://college.gaokao.com/school/764/",
+ "local_name": "广州市白云区江高镇学苑路一号"
+}{
+ "id": "广州航海高等专科学校",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/780.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gzhmt.edu.cn",
+ "next_url": "http://college.gaokao.com/school/780/",
+ "local_name": "广州市黄埔区红山三路101号"
+}{
+ "id": "私立华联学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/782.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "——",
+ "next_url": "http://college.gaokao.com/school/782/",
+ "local_name": "广州市黄埔区红山三路101号"
+}{
+ "id": "华南理工大学广州汽车学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/872.png",
+ "school_type": "工科",
+ "school_subjection": "——",
+ "school_nature": "独立学院",
+ "school_url": "http://www.gcu.edu.cn/",
+ "next_url": "http://college.gaokao.com/school/872/",
+ "local_name": "广州市花都区学府路一号"
+}{
+ "id": "广州大学华软软件学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/873.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "www.sise.com.cn",
+ "next_url": "http://college.gaokao.com/school/873/",
+ "local_name": "广州.从化.广从大道13号"
+}{
+ "id": "中山大学南方学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/874.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "http://zsb.nfsysu.cn/",
+ "next_url": "http://college.gaokao.com/school/874/",
+ "local_name": "广东省广州市从化温泉镇中山大学南方学院"
+}{
+ "id": "广东外语外贸大学南国商学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/875.png",
+ "school_type": "财经",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "www.gwng.edu.cn",
+ "next_url": "http://college.gaokao.com/school/875/",
+ "local_name": "510545广州市白云区良田中路181号"
+}{
+ "id": "广东商学院华商学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/876.png",
+ "school_type": "财经",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "http://www.gdhsc.edu.cn",
+ "next_url": "http://college.gaokao.com/school/876/",
+ "local_name": "学校地址：广州市增城区荔城街华商路1号；"
+}{
+ "id": "广东海洋大学寸金学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/877.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "www.gdcjxy.com",
+ "next_url": "http://college.gaokao.com/school/877/",
+ "local_name": "广东省湛江市麻章区学智路二号"
+}{
+ "id": "华南农业大学珠江学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/878.png",
+ "school_type": "农业",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "http://www.scauzhujiang.cn/",
+ "next_url": "http://college.gaokao.com/school/878/",
+ "local_name": "广州市从化街口街广从北路72号"
+}{
+ "id": "广东技术师范学院天河学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/884.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "www.thxy.cn",
+ "next_url": "http://college.gaokao.com/school/884/",
+ "local_name": "广州市白云区太和兴太三路638号"
+}{
+ "id": "广东工业大学华立学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/953.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "http://www.hualixy.com/index.asp",
+ "next_url": "http://college.gaokao.com/school/953/",
+ "local_name": "广州市增城广州华立科技园华立路11号"
+}{
+ "id": "广州大学松田学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/954.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "www.sontan.net",
+ "next_url": "http://college.gaokao.com/school/954/",
+ "local_name": "广东省广州市增城区朱村街广州大学松田学院"
+}{
+ "id": "东莞理工学院城市学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/960.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "http://csxy.dgut.edu.cn/",
+ "next_url": "http://college.gaokao.com/school/960/",
+ "local_name": "东莞市城区学院路251号东莞理工学院城市学院"
+}{
+ "id": "中山大学新华学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/963.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "http://xh.sysu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/963/",
+ "local_name": "（广州校区）广东省广州市天河区龙洞广汕一路721号；邮政编码：510520（东莞校区）广东省东莞市麻涌镇沿江西一路7号；邮政编码：523133"
+}{
+ "id": "北京师范大学-香港浸会大学联合国际学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/993.png",
+ "school_type": "综合",
+ "school_subjection": "——",
+ "school_nature": "本科",
+ "school_url": "http://www.uic.edu.hk",
+ "next_url": "http://college.gaokao.com/school/993/",
+ "local_name": "广东省珠海市唐家湾金凤路28号"
+}{
+ "id": "北京师范大学珠海分校",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/995.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "www.bnuz.edu.cn",
+ "next_url": "http://college.gaokao.com/school/995/",
+ "local_name": "广东省珠海市唐家湾金凤路28号"
+}{
+ "id": "电子科技大学中山学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1000.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "www.zsc.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1000/",
+ "local_name": "广东省中山市石岐区学院路一号"
+}{
+ "id": "广州民航职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1345.png",
+ "school_type": "工科",
+ "school_subjection": "中国民用航空总局",
+ "school_nature": "高职专科",
+ "school_url": "www.caac.net",
+ "next_url": "http://college.gaokao.com/school/1345/",
+ "local_name": "白云区机场路向云西街10号(近文昌酒店)"
+}{
+ "id": "广东轻工职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1346.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdqy.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1346/",
+ "local_name": "广州市新港西路152号"
+}{
+ "id": "顺德职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1347.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.sdpt.com.cn",
+ "next_url": "http://college.gaokao.com/school/1347/",
+ "local_name": "广东省佛山市顺德区大良德胜东路"
+}{
+ "id": "广东交通职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1348.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdcp.cn37236028",
+ "next_url": "http://college.gaokao.com/school/1348/",
+ "local_name": "南校区：广东省广州市天河区天源路789号北校区：广东省广州市花都区工业大道11号"
+}{
+ "id": "番禺职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1349.png",
+ "school_type": "综合",
+ "school_subjection": "——",
+ "school_nature": "高职专科",
+ "school_url": "www.pyp.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1349/",
+ "local_name": "广东省广州市番禺区市良路1342号"
+}{
+ "id": "广东水利电力职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1350.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdsdxy.cn",
+ "next_url": "http://college.gaokao.com/school/1350/",
+ "local_name": "广州市天河区天寿路122号（天河校区）广州市从化江埔街（从化校区）"
+}{
+ "id": "深圳信息职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1351.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.szpt.net",
+ "next_url": "http://college.gaokao.com/school/1351/",
+ "local_name": "广东省深圳市南山区西丽湖沙河西路4089号"
+}{
+ "id": "深圳职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1352.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "http://www.szpt.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1352/",
+ "local_name": "广东省深圳市南山区西丽湖"
+}{
+ "id": "潮汕职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1353.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.chaoshan.cn",
+ "next_url": "http://college.gaokao.com/school/1353/",
+ "local_name": "广东省普宁市大学路1号"
+}{
+ "id": "广东松山职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1354.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdsspt.cn",
+ "next_url": "http://college.gaokao.com/school/1354/",
+ "local_name": "广东省韶关市曲江区南华"
+}{
+ "id": "广东农工商职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1355.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdaib.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1355/",
+ "local_name": "广州市天河区粤垦路198号"
+}{
+ "id": "佛山职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1356.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.fspt.net",
+ "next_url": "http://college.gaokao.com/school/1356/",
+ "local_name": "广州市天河区粤垦路198号"
+}{
+ "id": "广东新安职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1357.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdxa.cn",
+ "next_url": "http://college.gaokao.com/school/1357/",
+ "local_name": "深圳市南山区南头街86号广东新安职业技术学院"
+}{
+ "id": "广东省外语艺术职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1358.png",
+ "school_type": "综合",
+ "school_subjection": "——",
+ "school_nature": "高职专科",
+ "school_url": "http://www.gtcfla.net/",
+ "next_url": "http://college.gaokao.com/school/1358/",
+ "local_name": "五山校区地址：广州市天河区瘦狗岭路463号　 燕岭校区地址：广州市天河区燕岭路495号　"
+}{
+ "id": "广东机电职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1359.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdmec.com",
+ "next_url": "http://college.gaokao.com/school/1359/",
+ "local_name": "南校区学院地址：广州市沙太路麒麟岗北校区学院地址：广州市钟落潭马沥路"
+}{
+ "id": "广东建设职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1360.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdcvi.net",
+ "next_url": "http://college.gaokao.com/school/1360/",
+ "local_name": "南校区:广州市白云区广花二路638号北校区:广州市白云区人和镇方华路"
+}{
+ "id": "广东纺织职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1361.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gditt.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1361/",
+ "local_name": "佛山市澜石二路20号"
+}{
+ "id": "广东女子职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1362.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdfs.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1362/",
+ "local_name": "广州市番禺区市莲路南浦段2号"
+}{
+ "id": "广东岭南职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1363.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.lingnancollege.com.cn",
+ "next_url": "http://college.gaokao.com/school/1363/",
+ "local_name": "广州天河东圃大观中路492号"
+}{
+ "id": "汕尾职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1364.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.swvtc.cn",
+ "next_url": "http://college.gaokao.com/school/1364/",
+ "local_name": "广东省汕尾市城区文德路"
+}{
+ "id": "河源职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1365.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.hycollege.net",
+ "next_url": "http://college.gaokao.com/school/1365/",
+ "local_name": "河源市东环路大学城"
+}{
+ "id": "中山大学新华学院",
+ "school_img": "http://img.eduuu.com/edu/ad/wm2.gif",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "http://xh.sysu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/963/",
+ "local_name": "（广州校区）广东省广州市天河区龙洞广汕一路721号；邮政编码：510520（东莞校区）广东省东莞市麻涌镇沿江西一路7号；邮政编码：523133"
+}{
+ "id": "北京师范大学-香港浸会大学联合国际学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/993.png",
+ "school_type": "综合",
+ "school_subjection": "——",
+ "school_nature": "本科",
+ "school_url": "http://www.uic.edu.hk",
+ "next_url": "http://college.gaokao.com/school/993/",
+ "local_name": "广东省珠海市唐家湾金凤路28号"
+}{
+ "id": "北京师范大学珠海分校",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/995.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "www.bnuz.edu.cn",
+ "next_url": "http://college.gaokao.com/school/995/",
+ "local_name": "广东省珠海市唐家湾金凤路18号"
+}{
+ "id": "电子科技大学中山学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1000.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "www.zsc.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1000/",
+ "local_name": "广东省中山市石岐区学院路一号"
+}{
+ "id": "广州民航职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1345.png",
+ "school_type": "工科",
+ "school_subjection": "中国民用航空总局",
+ "school_nature": "高职专科",
+ "school_url": "www.caac.net",
+ "next_url": "http://college.gaokao.com/school/1345/",
+ "local_name": "广东省中山市石岐区学院路一号"
+}{
+ "id": "广东轻工职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1346.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdqy.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1346/",
+ "local_name": "广州市新港西路152号"
+}{
+ "id": "顺德职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1347.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.sdpt.com.cn",
+ "next_url": "http://college.gaokao.com/school/1347/",
+ "local_name": "广东省佛山市顺德区大良德胜东路"
+}{
+ "id": "广东交通职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1348.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdcp.cn37236028",
+ "next_url": "http://college.gaokao.com/school/1348/",
+ "local_name": "南校区：广东省广州市天河区天源路789号北校区：广东省广州市花都区工业大道11号"
+}{
+ "id": "番禺职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1349.png",
+ "school_type": "综合",
+ "school_subjection": "——",
+ "school_nature": "高职专科",
+ "school_url": "www.pyp.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1349/",
+ "local_name": "广东省广州市番禺区市良路1342号"
+}{
+ "id": "广东水利电力职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1350.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdsdxy.cn",
+ "next_url": "http://college.gaokao.com/school/1350/",
+ "local_name": "广州市天河区天寿路122号（天河校区）广州市从化江埔街（从化校区）"
+}{
+ "id": "深圳信息职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1351.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.szpt.net",
+ "next_url": "http://college.gaokao.com/school/1351/",
+ "local_name": "广东省深圳市南山区西丽湖沙河西路4089号"
+}{
+ "id": "深圳职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1352.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "http://www.szpt.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1352/",
+ "local_name": "广东省深圳市南山区西丽湖"
+}{
+ "id": "潮汕职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1353.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.chaoshan.cn",
+ "next_url": "http://college.gaokao.com/school/1353/",
+ "local_name": "广东省普宁市大学路1号"
+}{
+ "id": "广东松山职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1354.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdsspt.cn",
+ "next_url": "http://college.gaokao.com/school/1354/",
+ "local_name": "广东省韶关市曲江区南华"
+}{
+ "id": "广东农工商职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1355.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdaib.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1355/",
+ "local_name": "广州市天河区粤垦路198号"
+}{
+ "id": "佛山职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1356.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.fspt.net",
+ "next_url": "http://college.gaokao.com/school/1356/",
+ "local_name": "佛山市三水区乐平镇学院路1号"
+}{
+ "id": "广东新安职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1357.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdxa.cn",
+ "next_url": "http://college.gaokao.com/school/1357/",
+ "local_name": "深圳市南山区南头街86号广东新安职业技术学院"
+}{
+ "id": "广东省外语艺术职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1358.png",
+ "school_type": "综合",
+ "school_subjection": "——",
+ "school_nature": "高职专科",
+ "school_url": "http://www.gtcfla.net/",
+ "next_url": "http://college.gaokao.com/school/1358/",
+ "local_name": "五山校区地址：广州市天河区瘦狗岭路463号　 燕岭校区地址：广州市天河区燕岭路495号　"
+}{
+ "id": "广东机电职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1359.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdmec.com",
+ "next_url": "http://college.gaokao.com/school/1359/",
+ "local_name": "南校区学院地址：广州市沙太路麒麟岗北校区学院地址：广州市钟落潭马沥路"
+}{
+ "id": "广东建设职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1360.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdcvi.net",
+ "next_url": "http://college.gaokao.com/school/1360/",
+ "local_name": "南校区学院地址：广州市沙太路麒麟岗北校区学院地址：广州市钟落潭马沥路"
+}{
+ "id": "广东纺织职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1361.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gditt.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1361/",
+ "local_name": "佛山市澜石二路20号"
+}{
+ "id": "广东女子职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1362.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdfs.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1362/",
+ "local_name": "广州市番禺区市莲路南浦段2号"
+}{
+ "id": "广东岭南职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1363.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.lingnancollege.com.cn",
+ "next_url": "http://college.gaokao.com/school/1363/",
+ "local_name": "广州天河东圃大观中路492号"
+}{
+ "id": "汕尾职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1364.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.swvtc.cn",
+ "next_url": "http://college.gaokao.com/school/1364/",
+ "local_name": "广东省汕尾市城区文德路"
+}{
+ "id": "河源职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1365.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.hycollege.net",
+ "next_url": "http://college.gaokao.com/school/1365/",
+ "local_name": "河源市东环路大学城"
+}{
+ "id": "罗定职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1366.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.ldpoly.comhttp://zs.ldpoly.com",
+ "next_url": "http://college.gaokao.com/school/1366/",
+ "local_name": "广东省罗定市西门岗5号"
+}{
+ "id": "阳江职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1367.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.yjcollege.net",
+ "next_url": "http://college.gaokao.com/school/1367/",
+ "local_name": "广东省阳江市江城区东山路213号"
+}{
+ "id": "广东财经职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1368.png",
+ "school_type": "财经",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "——",
+ "next_url": "http://college.gaokao.com/school/1368/",
+ "local_name": "广东省阳江市江城区东山路213号"
+}{
+ "id": "揭阳职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1369.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "http://www.jyc.edu.cn/",
+ "next_url": "http://college.gaokao.com/school/1369/",
+ "local_name": "学校地址：广东省揭阳市仙桥紫峰山下"
+}{
+ "id": "广东邮电职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1370.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gupt.net",
+ "next_url": "http://college.gaokao.com/school/1370/",
+ "local_name": "广东省广州市天河区中山大道西191号"
+}{
+ "id": "汕头职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1371.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "http://stzy.stedu.net/",
+ "next_url": "http://college.gaokao.com/school/1371/",
+ "local_name": "汕头市濠江区东湖"
+}{
+ "id": "清远职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1372.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.qypt.com.cn",
+ "next_url": "http://college.gaokao.com/school/1372/",
+ "local_name": "广东省清远市清城区东城街蟠龙园"
+}{
+ "id": "广东亚视演艺职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1373.png",
+ "school_type": "艺术",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.huaue.com",
+ "next_url": "http://college.gaokao.com/school/1373/",
+ "local_name": "广东省东莞市塘厦138区湖景路1号"
+}{
+ "id": "广东司法警官职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1374.png",
+ "school_type": "政法",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdsfjy.cn",
+ "next_url": "http://college.gaokao.com/school/1374/",
+ "local_name": "广东省东莞市塘厦138区湖景路1号"
+}{
+ "id": "广东建华职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1375.png",
+ "school_type": "综合",
+ "school_subjection": "——",
+ "school_nature": "其它",
+ "school_url": "http://www.gdjhedu.com/",
+ "next_url": "http://college.gaokao.com/school/1375/",
+ "local_name": "深圳市宝安区公明镇将石新围"
+}{
+ "id": "广东工贸职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1376.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdgm.cn",
+ "next_url": "http://college.gaokao.com/school/1376/",
+ "local_name": "广州市天河区广州大道北963号"
+}{
+ "id": "广州康大职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1377.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.kdvtc",
+ "next_url": "http://college.gaokao.com/school/1377/",
+ "local_name": "广州市萝岗区九龙镇康大教育园"
+}{
+ "id": "南海东软信息技术职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1378.png",
+ "school_type": "工科",
+ "school_subjection": "——",
+ "school_nature": "高职专科",
+ "school_url": "http://nanhai.neusoft.edu.cn/",
+ "next_url": "http://college.gaokao.com/school/1378/",
+ "local_name": "广东省佛山市南海软件科技园"
+}{
+ "id": "珠海艺术职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1379.png",
+ "school_type": "艺术",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.zhac.net",
+ "next_url": "http://college.gaokao.com/school/1379/",
+ "local_name": "广东省珠海市金湾区广安路2号"
+}{
+ "id": "广东教育学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1512.png",
+ "school_type": "师范",
+ "school_subjection": "——",
+ "school_nature": "其它",
+ "school_url": "www.gdei.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1512/",
+ "local_name": "广州海珠校区：广州市海珠区新港中路351号 广州花都校区：广州市花都区迎宾大道西30号"
+}{
+ "id": "广东科学技术职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1533.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdit.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1533/",
+ "local_name": "广州校区地址：广州市天河区科华街351号 珠海校区地址：珠海市金湾区珠海大道南侧"
+}{
+ "id": "广东文艺职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1546.png",
+ "school_type": "艺术",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdla.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1546/",
+ "local_name": "广东省广州市番禺区市广路242号"
+}{
+ "id": "广东工程职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1547.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gpc.net.cn",
+ "next_url": "http://college.gaokao.com/school/1547/",
+ "local_name": "广东省广州市天河区渔兴路18号"
+}{
+ "id": "广东行政职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1568.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdxzzy.cn",
+ "next_url": "http://college.gaokao.com/school/1568/",
+ "local_name": "广州市花都区迎宾大道西28号"
+}{
+ "id": "广州科技职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1675.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gzkjxy.net",
+ "next_url": "http://college.gaokao.com/school/1675/",
+ "local_name": "广州市白云区钟落潭广从九路1038号（广州钟落潭大学园区）"
+}{
+ "id": "广州工商职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1676.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gzgs.org.cn",
+ "next_url": "http://college.gaokao.com/school/1676/",
+ "local_name": "广东省广州市花都区狮岭镇海布光明路5号（花都校区）；广东省佛山市三水区乐平镇范湖三花公路中23号（三水校区）"
+}{
+ "id": "广州珠江职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1677.png",
+ "school_type": "工科",
+ "school_subjection": "——",
+ "school_nature": "高职专科",
+ "school_url": "www.gzzjedu.cn",
+ "next_url": "http://college.gaokao.com/school/1677/",
+ "local_name": "广州增城市增江街塔山大道2号"
+}{
+ "id": "广州松田职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1678.png",
+ "school_type": "综合",
+ "school_subjection": "——",
+ "school_nature": "高职专科",
+ "school_url": "www.sontanedu.cn",
+ "next_url": "http://college.gaokao.com/school/1678/",
+ "local_name": "广州增城市增江街塔山大道2号"
+}{
+ "id": "广州涉外经济职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1680.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gziec.net",
+ "next_url": "http://college.gaokao.com/school/1680/",
+ "local_name": "广州市沙太中路大源金龙路32号"
+}{
+ "id": "广州城建职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1681.png",
+ "school_type": "工科",
+ "school_subjection": "——",
+ "school_nature": "高职专科",
+ "school_url": "www.gzccc.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1681/",
+ "local_name": "广州市从化环市东路166号"
+}{
+ "id": "广州华南商贸职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1683.png",
+ "school_type": "财经",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "http://www.hnsmxy.com",
+ "next_url": "http://college.gaokao.com/school/1683/",
+ "local_name": "广州市天河区天源路740号"
+}{
+ "id": "广州现代信息工程职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1684.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gzmodern.cn",
+ "next_url": "http://college.gaokao.com/school/1684/",
+ "local_name": "广州市珠吉路660号"
+}{
+ "id": "广州华立科技职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1685.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "——",
+ "next_url": "http://college.gaokao.com/school/1685/",
+ "local_name": "广州市增城区广汕公路三江路段华立路7号"
+}{
+ "id": "广州工程技术职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1809.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gzvtc.cn",
+ "next_url": "http://college.gaokao.com/school/1809/",
+ "local_name": "广州市环市东路465号"
+}{
+ "id": "广州铁路职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1811.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gtxy.cn",
+ "next_url": "http://college.gaokao.com/school/1811/",
+ "local_name": "广州市白云区石井街庆隆中路100号"
+}{
+ "id": "广州体育职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1812.png",
+ "school_type": "体育",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gztzy.net",
+ "next_url": "http://college.gaokao.com/school/1812/",
+ "local_name": "广州市天河区长兴路338号"
+}{
+ "id": "广东科贸职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1814.png",
+ "school_type": "财经",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdkm.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1814/",
+ "local_name": "广州市白云区石井街石庆路388号五山校区地址：广州市天河区科华街273号"
+}{
+ "id": "广州科技贸易职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1817.png",
+ "school_type": "财经",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "——",
+ "next_url": "http://college.gaokao.com/school/1817/",
+ "local_name": "广州市番禺区南村市新路北段669号广州科技贸易职业学院"
+}{
+ "id": "广东理工职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1819.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdpi.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1819/",
+ "local_name": "广州市下塘西路3号"
+}{
+ "id": "广州城市职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1820.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gcp.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1820/",
+ "local_name": "广州市广园中路248号"
+}{
+ "id": "广东体育职业技术学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1821.png",
+ "school_type": "体育",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdvcp.net",
+ "next_url": "http://college.gaokao.com/school/1821/",
+ "local_name": "广州市天河区黄村奥体路52号"
+}{
+ "id": "广东食品药品职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/1822.png",
+ "school_type": "工科",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.gdyzy.edu.cn",
+ "next_url": "http://college.gaokao.com/school/1822/",
+ "local_name": "广州市天河区黄村奥体路52号"
+}{
+ "id": "北京理工大学珠海学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/2123.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "http://www.zhbit.com/",
+ "next_url": "http://college.gaokao.com/school/2123/",
+ "local_name": "地址:广东省珠海市唐家湾金凤路6号"
+}{
+ "id": "广州南洋理工职业学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/2143.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "高职专科",
+ "school_url": "www.nyjy.cn",
+ "next_url": "http://college.gaokao.com/school/2143/",
+ "local_name": "地址：广州市从化区环市东路1123号"
+}{
+ "id": "华南师范大学增城学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/2161.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "http://www.gzcc.cn/",
+ "next_url": "http://college.gaokao.com/school/2161/",
+ "local_name": "广东省广州市萝岗区九龙镇康大教育园"
+}{
+ "id": "吉林大学珠海学院",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/2163.png",
+ "school_type": "综合",
+ "school_subjection": "广东省教育厅",
+ "school_nature": "独立学院",
+ "school_url": "www.jluzh.com",
+ "next_url": "http://college.gaokao.com/school/2163/",
+ "local_name": "广东省珠海市金湾区草堂"
+}{
+ "id": "中山大学",
+ "school_img": "http://img.eduuu.com/edu/ad/wm2.gif",
+ "school_type": "综合",
+ "school_subjection": "教育部",
+ "school_nature": "本科",
+ "school_url": "www.sysu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/29/",
+ "local_name": "广州市新港西路135号"
+}{
+ "id": "华南理工大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/30.png",
+ "school_type": "工科",
+ "school_subjection": "教育部",
+ "school_nature": "本科",
+ "school_url": "www.scut.edu.cn",
+ "next_url": "http://college.gaokao.com/school/30/",
+ "local_name": "广州市天河区五山路381号"
+}{
+ "id": "暨南大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/88.png",
+ "school_type": "综合",
+ "school_subjection": "国务院侨务办公室",
+ "school_nature": "本科",
+ "school_url": "www.jnu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/88/",
+ "local_name": "广东省广州市黄埔大道西601号"
+}{
+ "id": "中山大学",
+ "school_img": "http://img.eduuu.com/edu/ad/wm2.gif",
+ "school_type": "综合",
+ "school_subjection": "教育部",
+ "school_nature": "本科",
+ "school_url": "www.sysu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/29/",
+ "local_name": "广州市新港西路135号"
+}{
+ "id": "华南理工大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/30.png",
+ "school_type": "工科",
+ "school_subjection": "教育部",
+ "school_nature": "本科",
+ "school_url": "www.scut.edu.cn",
+ "next_url": "http://college.gaokao.com/school/30/",
+ "local_name": "广州市天河区五山路381号"
+}{
+ "id": "暨南大学",
+ "school_img": "http://college.gaokao.com/style/college/images/icon/88.png",
+ "school_type": "综合",
+ "school_subjection": "国务院侨务办公室",
+ "school_nature": "本科",
+ "school_url": "www.jnu.edu.cn",
+ "next_url": "http://college.gaokao.com/school/88/",
+ "local_name": "广东省广州市黄埔大道西601号"
+}
